@@ -15,4 +15,4 @@ def pwm_motor(speed):
     fan.duty_u16(pulse)
     
     
-pwm_motor(75)
+pwm_motor(100)
