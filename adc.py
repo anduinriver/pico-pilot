@@ -12,4 +12,4 @@ while True:
     print(rp)
     value=get_value()
     print(value)
-    utime.sleep(0.1)
+    utime.sleep(1)
